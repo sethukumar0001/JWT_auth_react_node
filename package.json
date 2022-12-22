@@ -17,7 +17,7 @@
     "express": "~4.15.5",
     "express-jwt": "^5.3.1",
     "express-session": "^1.15.6",
-    "jsonwebtoken": "^8.2.2",
+    "jsonwebtoken": "^9.0.0",
     "mysql2": "^1.6.1",
     "nodemon": "^1.17.3",
     "react-router-dom": "^4.3.1",
